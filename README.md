@@ -7,7 +7,6 @@
 <p align="center">
   🚀 Innovative AI & Software Solutions <br/>
   🤖 Empowering the Future with Technology <br/>
-  <a href="https://atheronlabs.com">🌐 Visit Our Website</a>
 </p>
 
 ---
@@ -38,9 +37,7 @@ AtheronLabs is a forward-thinking software development company specializing in A
 
 ## 📫 Connect With Us
 
-- 🌐 [Website](https://atheronlabs.com)
-- 💼 [LinkedIn](https://linkedin.com/company/atheronlabs)
-- 🐦 [Twitter](https://twitter.com/atheronlabs)
+- 🌐 [Website](https://akilalbs.me)
 
 ---
 
