@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png" alt="AtheronLabs Logo" width="200"/>
+  <img src="https://github.com/AtheronLabs/.github/blob/main/logo.png" alt="AtheronLabs Logo" width="200"/>
 </p>
 
 <h1 align="center">AtheronLabs</h1>
